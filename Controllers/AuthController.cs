@@ -1,5 +1,5 @@
 ﻿using CadastroEmpresa.Dto;
-using CadastroEmpresa.Services;
+using CadastroEmpresa.Services.UsuarioService.UsuarioService;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;

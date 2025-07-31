@@ -1,5 +1,6 @@
 using CadastroEmpresa.Data;
-using CadastroEmpresa.Services;
+using CadastroEmpresa.Services.EmpresaService;
+using CadastroEmpresa.Services.UsuarioService;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -60,10 +61,6 @@ namespace CadastroEmpresa
             app.UseAuthorization();
 
             app.MapControllers();
-
-            var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
-            app.Urls.Clear();
-            app.Urls.Add($"http://0.0.0.0:{port}");
 
             app.Run();
         }

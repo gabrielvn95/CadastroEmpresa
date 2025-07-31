@@ -1,4 +1,4 @@
-﻿using CadastroEmpresa.Services;
+﻿using CadastroEmpresa.Services.EmpresaService;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;

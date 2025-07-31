@@ -6,7 +6,7 @@ using Newtonsoft.Json;
 using System.Net.Http.Headers;
 using System.Text.RegularExpressions;
 
-namespace CadastroEmpresa.Services
+namespace CadastroEmpresa.Services.EmpresaService
 {
     public class EmpresaService : IEmpresaInterface
     {

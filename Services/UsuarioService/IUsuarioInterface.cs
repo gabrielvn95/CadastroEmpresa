@@ -1,7 +1,7 @@
 ﻿using CadastroEmpresa.Dto;
 using CadastroEmpresa.Models;
 
-namespace CadastroEmpresa.Services
+namespace CadastroEmpresa.Services.UsuarioService.UsuarioService
 {
     public interface IUsuarioInterface
     {

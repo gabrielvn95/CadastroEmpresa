@@ -1,6 +1,6 @@
 ﻿using CadastroEmpresa.Models;
 
-namespace CadastroEmpresa.Services
+namespace CadastroEmpresa.Services.EmpresaService
 {
     public interface IEmpresaInterface
     {
