@@ -169,3 +169,4 @@ C:\Users\gabri\source\repos\CadastroEmpresa\obj\Debug\net9.0\CadastroEmpresa.pdb
 C:\Users\gabri\source\repos\CadastroEmpresa\obj\Debug\net9.0\CadastroEmpresa.genruntimeconfig.cache
 C:\Users\gabri\source\repos\CadastroEmpresa\obj\Debug\net9.0\ref\CadastroEmpresa.dll
 C:\Users\gabri\source\repos\CadastroEmpresa\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\gabri\source\repos\CadastroEmpresa\obj\Debug\net9.0\CadastroEmpresa.sourcelink.json
